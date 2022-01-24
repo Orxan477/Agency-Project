@@ -12,7 +12,7 @@
 }
 .MyNavbar  .navRightMargin a{
     font-size: 18px;
-    /* color: white; */
+    color: white;
 }
 
 .MyNavbarScroll{
@@ -23,5 +23,40 @@
 }
 .MyNavbarScroll  .navRightMargin a{
     font-size: 18px;
-    /* color: white; */
+    color: white;
+}
+
+#Intro{
+    background-image: url("/assets/img/header-bg.jpg");
+    height: 100%;
+    min-height: 800px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    text-align: center;
+    position: relative;
+}
+#Intro .content{
+    /* content: ""; */
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#Intro .content h1{
+    font-size: 70px;
+    color: white;
+}
+#Intro .content p{
+    color: white;
+    font-style: italic;
+    font-size:40px;
+    font-weight: 500;
+}
+#Intro .content button{
+    margin-top: 2%;
+    background-color: #ffc800;
+    padding: 20px 40px;
 }
