@@ -7,6 +7,9 @@
 .MyNavbar{
     margin-top: 20px;
 }
+.burger{
+    color: white;
+}
 .MyNavbar img{
     height: 30px;
 }
