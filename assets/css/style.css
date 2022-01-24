@@ -59,4 +59,12 @@
     margin-top: 2%;
     background-color: #ffc800;
     padding: 20px 40px;
+    border: none;
+}
+#Intro .content button:hover{
+    background-color: #d6aa0b;
+}
+#Intro .content button span{
+    font-weight: bold;
+    font-size: 20px;
 }
