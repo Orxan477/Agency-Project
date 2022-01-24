@@ -1,0 +1,27 @@
+#navbar{
+    height: 100px;
+}
+#navbar .navRightMargin{
+    margin-left: 42%;
+}
+.MyNavbar{
+    margin-top: 20px;
+}
+.MyNavbar img{
+    height: 30px;
+}
+.MyNavbar  .navRightMargin a{
+    font-size: 18px;
+    /* color: white; */
+}
+
+.MyNavbarScroll{
+    margin-top: 20px;
+}
+.MyNavbarScroll img{
+    height: 20px;
+}
+.MyNavbarScroll  .navRightMargin a{
+    font-size: 18px;
+    /* color: white; */
+}
