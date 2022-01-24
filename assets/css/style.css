@@ -68,3 +68,34 @@
     font-weight: bold;
     font-size: 20px;
 }
+.servicesHead h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+.servicesHead p{
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+}
+.myCard{
+    text-align: center;
+}
+.borderCard{
+    border: none;
+}
+.myCard h6{
+    font-size: 28px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+.myCard p{
+    color: #6c757d !important;
+    line-height: 1.75;
+    margin-top: 30px;
+}
+.cardIcon{
+    font-size: 50px;
+    padding: 30px;
+    border-radius: 50%;
+    background-color: #ffc800;
+}
