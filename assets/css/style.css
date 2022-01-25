@@ -17,7 +17,17 @@
     font-size: 18px;
     color: white;
 }
-
+.navRightMargin a{
+    transition: .3s;
+}
+.navRightMargin a:hover{
+color: #ffc800;
+}
+.navbarcolor{
+    background-color: black;
+    opacity: 0.6;
+    height: 60px;
+}
 .MyNavbarScroll{
     margin-top: 20px;
 }
@@ -28,7 +38,9 @@
     font-size: 18px;
     color: white;
 }
-
+.navbarHeight{
+    height: 25px;
+}
 #Intro{
     background-image: url("/assets/img/header-bg.jpg");
     height: 100%;
