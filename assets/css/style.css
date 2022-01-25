@@ -114,3 +114,72 @@ color: #ffc800;
     border-radius: 50%;
     background-color: #ffc800;
 }
+.portfolioCard{
+    padding: 0;
+}
+.portfolioCard h6{
+    margin-top: 15px;
+}
+.portfolioCard p{
+    margin-top: 0;
+    font-style: italic;
+}
+.portfolioCard img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    z-index: 1;
+}
+.portfolioCard img::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    background-color: #d6aa0b;
+    z-index: 2;
+}
+.myPlus{
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    color: transparent;
+    font-size: 80px;
+    z-index: 9;
+    transform: translate(-50%, -50%);
+    transition: .3s;
+}
+.portfolioHover:hover .myPlus{
+    color: white;
+}
+.Modal h6{
+    font-size: 45px;
+    margin-top: 30px;
+}
+.Modal .info{
+    color: black!important;
+    margin-top: 15px;
+}
+.Modal .editer{
+    color: black!important;
+    font-style: normal;
+    margin: 0;
+}
+.Modal .editer span{
+    font-weight: bold;
+}
+.Modal .editDiv{
+    margin: 3% 0;
+}
+.Modal button{
+    background-color: #d6aa0b;
+    border: none;
+    padding: 2% 7%;
+}
+.Modal button:hover{
+    background-color: #bb9716;
+    border: none;
+}
