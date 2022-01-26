@@ -1,7 +1,7 @@
 #navbar{
     height: 100px;
 }
-#navbar .navRightMargin{
+.MyNavbar .navRightMargin{
     margin-left: 42%;
 }
 .MyNavbar{
@@ -29,6 +29,9 @@ color: #ffc800;
 }
 .MyNavbarScroll{
     margin-top: 20px;
+}
+.MyNavbarScroll .navRightMargin{
+    margin-left: 48%;
 }
 .MyNavbarScroll img{
     height: 20px;
