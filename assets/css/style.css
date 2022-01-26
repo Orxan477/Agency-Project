@@ -211,3 +211,12 @@ color: #ffc800;
     text-align: center;
     color: rgb(138, 136, 136);
 }
+#footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+#footer .footer3rdSection{
+    margin-left:10px;
+    color: #212529;
+}
