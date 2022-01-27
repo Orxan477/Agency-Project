@@ -1,0 +1,120 @@
+[33mcommit b2bbb0887eeb24e74083b38ec8a831e3dad5a378[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Orkhan Ganbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Thu Jan 27 17:55:58 2022 +0400
+
+    backpac
+
+[33mcommit 212b033b7088c1fa11a06c0ad3b5301ad2d1e4cf[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Thu Jan 27 17:50:02 2022 +0400
+
+    AdminPanel
+
+[33mcommit 72c9937a10cf5f969f3a4fd909cee232d209a537[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Thu Jan 27 17:14:00 2022 +0400
+
+    DbContext data read
+
+[33mcommit d4a4a4f3a8dbe3142fe885eae053c45ea4768324[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Thu Jan 27 15:48:34 2022 +0400
+
+    FrontToBack
+
+[33mcommit 986d8f9e89ebabdcc631dd05aef65ba46a5d84bc[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Wed Jan 26 14:53:51 2022 +0400
+
+    Nav Fix
+
+[33mcommit 082eec648d1f03898aee0f6c1a86d51ff23a08c0[m
+Author: Orxan Qanbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Wed Jan 26 04:44:47 2022 +0400
+
+    Footer fix
+
+[33mcommit 8bd94c2bd02a4f7b1d8def9b4bfa923cfbcd73d4[m
+Author: Orxan Qanbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Wed Jan 26 04:40:29 2022 +0400
+
+    navbar fix
+
+[33mcommit 17ea158f4eb818162a04fdbb5eeebb6fd35a5465[m
+Author: Orxan Qanbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Wed Jan 26 04:38:31 2022 +0400
+
+    Team fix
+
+[33mcommit 3ec620c80d4333103b4f2744f5d1f9ac61507ba8[m
+Author: Orxan Qanbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Wed Jan 26 04:36:55 2022 +0400
+
+    footer section done
+
+[33mcommit f08a6c948e846c412ea096a054e27bc69f862293[m
+Author: Orxan Qanbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Wed Jan 26 04:28:40 2022 +0400
+
+    Team & company section done
+
+[33mcommit 3d1cecfdf459fe83b34a5f1114c5c765a8cafc30[m
+Author: Orxan Qanbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Wed Jan 26 03:46:03 2022 +0400
+
+    Portfolio section done
+
+[33mcommit 4f4b2e3b2a6963c518ff62cc7bc6aa6ffd42cf44[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Tue Jan 25 18:18:38 2022 +0400
+
+    Navbar Fix
+
+[33mcommit 8244b1f0121343ec3c2bcc0786d2c206c9b42588[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 20:05:01 2022 +0400
+
+    Burger menu fix
+
+[33mcommit d6fab50c1848f8ff731bd6f8672effc53f99a891[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 20:01:59 2022 +0400
+
+    Navbar Fix
+
+[33mcommit a8b0707f1a106b364957816a238db51785af85c3[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 19:58:43 2022 +0400
+
+    services section done
+
+[33mcommit 364386a270e4aac0a005b32e462f07b5b699ba12[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 19:30:48 2022 +0400
+
+    Fix Intro Button
+
+[33mcommit 86e441ada147c0b584a99dccc5a862ad521c34f9[m
+Merge: 443d256 dbf8dc3
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 19:27:24 2022 +0400
+
+    Merge branch 'main' of https://github.com/Orxan477/Agency-Project
+
+[33mcommit 443d2560c1d04a7c8707f040cc0d989ae4e9822c[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 19:27:07 2022 +0400
+
+    Intro Section Done
+
+[33mcommit dbf8dc373fb2413da37ab42d71f6e3844185adaf[m
+Author: Orkhan Ganbarov <41814449+Orxan477@users.noreply.github.com>
+Date:   Mon Jan 24 19:00:24 2022 +0400
+
+    Create README.md
+
+[33mcommit c55bc816906d345e6c3690624df813a33c858e08[m
+Author: Ganbarov <tu201906147@aztu.local>
+Date:   Mon Jan 24 18:59:49 2022 +0400
+
+    Navbar
