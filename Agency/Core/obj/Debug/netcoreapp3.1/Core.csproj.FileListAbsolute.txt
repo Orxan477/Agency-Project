@@ -1,0 +1,10 @@
+C:\Users\tu201906147\source\repos\Agency\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\tu201906147\source\repos\Agency\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\tu201906147\source\repos\Agency\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\tu201906147\source\repos\Agency\Core\obj\Debug\netcoreapp3.1\Core.pdb
