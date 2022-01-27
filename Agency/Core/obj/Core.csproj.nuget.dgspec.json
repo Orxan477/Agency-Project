@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tu201906147\\Desktop\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj": {}
+    "C:\\Users\\tu201906147\\Documents\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tu201906147\\Desktop\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj": {
+    "C:\\Users\\tu201906147\\Documents\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tu201906147\\Desktop\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\tu201906147\\Documents\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\tu201906147\\Desktop\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\tu201906147\\Documents\\Smart Bootstrap(agency)\\Agency\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\tu201906147\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tu201906147\\Desktop\\Smart Bootstrap(agency)\\Agency\\Core\\obj\\",
+        "outputPath": "C:\\Users\\tu201906147\\Documents\\Smart Bootstrap(agency)\\Agency\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
