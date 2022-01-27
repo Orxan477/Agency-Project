@@ -68,6 +68,10 @@ namespace Agency
             {
                 endpoints.MapControllerRoute(
                     name: "default",
+                    pattern: "{area:exists}/{controller=Portfolio}/{action=Index}/{id?}");
+                
+                endpoints.MapControllerRoute(
+                    name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }

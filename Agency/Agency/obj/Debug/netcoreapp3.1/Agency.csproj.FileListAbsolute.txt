@@ -381,3 +381,13 @@ C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\n
 C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Agency.dll
 C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Agency.pdb
 C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Agency.genruntimeconfig.cache
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Models\_ViewImports.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Models\_ViewStart.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Portfolio\Index.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\Components\AdminFooter\Default.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\Components\Navbar\Default.cshtml.g.cs
+C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Agency\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\Components\Sidebar\Default.cshtml.g.cs
