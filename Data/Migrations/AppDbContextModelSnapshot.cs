@@ -124,8 +124,8 @@ namespace Data.Migrations
                         {
                             Id = 1,
                             Category = "Illustration",
-                            Client = "",
-                            Image = "1",
+                            Client = "Threads",
+                            Image = "1.jpg",
                             Info = "Use this area to describe your project.",
                             IsDeleted = false,
                             Name = "Threads"

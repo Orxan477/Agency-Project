@@ -31,3 +31,16 @@ C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Core\obj\Debug\net
 C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
 C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
 C:\Users\tu201906147\Documents\Smart Bootstrap(agency)\Agency\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\HP\Documents\Private\Code Academy\Back-End\ASP.Net\Agency\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache

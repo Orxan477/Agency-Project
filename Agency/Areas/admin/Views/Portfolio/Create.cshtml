@@ -1,0 +1,43 @@
+﻿@model ProductCreateVM 
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <p class="card-description"> Basic form layout </p>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" id="exampleInputUsername1" placeholder="Username">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Category"></label>
+                    <input asp-for="Category" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                    <span asp-validation-for="Category"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Client"></label>
+                    <input asp-for="Client" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                    <span asp-validation-for="Client"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Info"></label>
+                    <input asp-for="Info" class="form-control" id="exampleInputConfirmPassword1" placeholder="Password">
+                    <span asp-validation-for="Info"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Photo"></label>
+                    <input asp-for="Photo" class="form-control" id="exampleInputConfirmPassword1" placeholder="Password">
+                    <span asp-validation-for="Photo"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button class="btn btn-dark">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+
